@@ -13,6 +13,8 @@
 
 ### 💻 Acerca de mí
 Soy un apasionado del desarrollo de software y la tecnología, actualmente cursando el cuarto semestre de Ingeniería de Sistemas. Me entusiasma aprender continuamente sobre nuevas herramientas y cómo la tecnología puede resolver problemas del mundo real.
+### 🥃Hobbies
+Me gusta mucho jugar videojuegos y mirar series de televisión.
 
 ---
 
