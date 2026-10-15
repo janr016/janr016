@@ -1,53 +1,38 @@
-# ¡Hola, soy Juan! 👋
+<div align="center">
 
-Soy un apasionado desarrollador de software enfocado en crear soluciones eficientes y aprender nuevas tecnologías. Actualmente me encuentro explorando el desarrollo web y mejorando mis habilidades en programación.
+# ¡Hola, bienvenid@ a mi perfil! 👋
 
----
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Personita programando">
 
-### 🚀 Sobre mí
-- 🔭 Actualmente estoy trabajando en **[nombre de tu proyecto actual o en qué te enfocas]**.
-- 🌱 Estoy aprendiendo sobre **[tecnología o lenguaje que estés estudiando]**.
-- 💬 Pregúntame sobre **[tus temas favoritos, ej: JavaScript, Python, Git]**.
-- 📫 ¿Cómo contactarme? Escríbeme a **[tu correo electrónico]** o conéctate conmigo en [LinkedIn](#).
+### 🚀 Estudiante de Ingeniería de Sistemas | 4to Semestre
+**Universidad Central del Ecuador** 🇪🇨
 
----
-
-### 💻 Tecnologías y Herramientas
-
-<p align="left">
-  <!-- Lenguajes -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  
-  <!-- Frameworks / Librerías -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40" />
-  
-  <!-- Herramientas y Bases de datos -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
-</p>
+</div>
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=radical&hide_border=true" alt="Racha en GitHub" />
-</p>
+### 💻 Acerca de mí
+Soy un apasionado del desarrollo de software y la tecnología, actualmente cursando el cuarto semestre de Ingeniería de Sistemas. Me entusiasma aprender continuamente sobre nuevas herramientas y cómo la tecnología puede resolver problemas del mundo real.
 
 ---
 
-### 🌐 Redes Sociales y Contacto
+### 🛠️ Tecnologías y Herramientas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/tu-usuario-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tu-usuario)
+| Categoría | Herramientas / Tecnologías |
+| :--- | :--- |
+| **Lenguajes & IDEs** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white) |
+| **Plataformas / Otras** | ![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat&logo=code&logoColor=white) |
+| **Inteligencia Artificial** | ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97706?style=flat&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-2563EB?style=flat&logo=deepseek&logoColor=white) ![Grok](https://img.shields.io/badge/Grok-000000?style=flat&logo=x&logoColor=white) |
+
+---
+
+### 🤝 Habilidades Colaborativas
+* **Trabajo en equipo:** Facilidad para colaborar en proyectos grupales y coordinar tareas de desarrollo.
+* **Comunicación efectiva:** Capacidad para transmitir ideas técnicas de forma clara.
+* **Aprendizaje ágil:** Adaptabilidad rápida a nuevas tecnologías, metodologías y herramientas de IA para optimizar flujos de trabajo.
+
+<div align="center">
+
+*¡Gracias por visitar mi perfil! 🌟*
+
+</div>
